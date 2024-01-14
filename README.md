@@ -1,4 +1,5 @@
-# Strongholds
+```
+Strongholds
 The official Strongholds Github Repo with all the information for gameplay, server hosting, modding and more
 
 Strongholds is a project ive been working on for a long time.
@@ -21,4 +22,4 @@ SIMPLIFIED TERMS OF USE:
   -set expiry dates on media, which prevents access to users beyond that date or limits the number of times they can access it
   -limit media access to specific devices, Internet Protocol (IP) addresses, or locations, such as limiting content to people in the U.S. only
   -watermark documents and images to assert ownership and identity of content
-
+```
