@@ -1,5 +1,4 @@
-
-Strongholds
+# Strongholds
 The official Strongholds Github Repo with all the information for gameplay, server hosting, modding and more
 
 Strongholds is a project ive been working on for a long time.
