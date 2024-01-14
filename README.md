@@ -1,10 +1,10 @@
-```
+
 Strongholds
 The official Strongholds Github Repo with all the information for gameplay, server hosting, modding and more
 
 Strongholds is a project ive been working on for a long time.
 Its a MMORPG where you select a character from a large variety of heroes and villains that show up within the games storyline to defeat large waves of enemies within an arena whilst either playing alone or with friends. Each character has a large variety of special attacks to keep the game exciting and their are several 'boss fights' to challenge the players as the journey through the game.
-
+```
 SIMPLIFIED TERMS OF USE:
 -by installing, downloading, or playing the game, you are saying that you have read the below and fully agree to every point made.
 -The games assets may not be commercially sold however can be used under free use or for non commerical projects.
