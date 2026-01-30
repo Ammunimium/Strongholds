@@ -1,6 +1,17 @@
 # Strongholds
 The official Strongholds Github Repo with all the information for gameplay, server hosting, modding and more
 
+UPDATE (instructions to run the game so far):
+Running the game!
+This game is completely unfinished, to anyone who really wants to see what is available right now your able to download the dependencies batch file along side the .py and lib, put them all together in the folder, run dependencies.bat to install the dependencies and then you should be set.
+
+currently its reccomended you use cpython 3.11.13 for compatability as this version is quite unstable, you will experience random crashes, features not added, etc
+
+Multiplayer is not yet implemented, neither is actual objectives, this is simple a release to get a preview of whats happening.
+
+Expect bugs and issues, you can report them to me in the discord, thank you for your patience.
+
+INFO:
 Strongholds is a project ive been working on for a long time.
 Its a MMORPG where you select a character from a large variety of heroes and villains that show up within the games storyline to defeat large waves of enemies within an arena whilst either playing alone or with friends. Each character has a large variety of special attacks to keep the game exciting and their are several 'boss fights' to challenge the players as the journey through the game.
 ```
