@@ -3,13 +3,39 @@ The official Strongholds Github Repo with all the information for gameplay, serv
 
 UPDATE (instructions to run the game so far):
 Running the game!
-This game is completely unfinished, to anyone who really wants to see what is available right now your able to download the dependencies batch file along side the .py and lib, put them all together in the folder, run dependencies.bat to install the dependencies and then you should be set.
+This game is completely unfinished, to anyone who really wants to see what is available right now your able to download the dependencies batch file along side the .py and lib, put them all together in the folder, run dependencies.bat to install the dependencies and then you should be set. (YOU DO NOT NEED THE STRONGDATA FILE)
 
-currently its reccomended you use cpython 3.11.13 for compatability as this version is quite unstable, you will experience random crashes, features not added, etc
+currently i reccomended you use cpython 3.11.13 for compatability as this version is quite unstable, you will experience random crashes, features not added, etc
 
 Multiplayer is not yet implemented, neither is actual objectives, this is simple a release to get a preview of whats happening.
 
 Expect bugs and issues, you can report them to me in the discord, thank you for your patience.
+
+MINIMUM REQUIREMENTS: (get the game up and running, 60ish+ fps, 1080p normal settings)
+CPU:
+    -Intel core i3 8100
+    -AMD Ryzen 3 1200
+  RAM:
+    -8GB
+  GPU:
+    -Intel UHD graphics 630
+    -AMD Vega 8
+    -Nvidia GTX 1030
+  STORAGE:
+    -NVME/SATA SSD
+
+Recommended: (high refresh rate experience 1440p+ 360+ fps even during more intensive scenarios)
+  CPU:
+    -Intel core i5 10400
+    -AMD Ryzen 5 3600
+  RAM:
+    -8GB
+  GPU:
+    -Intel Arc A380 6gb
+    -AMD RX580 8gb
+    -Nvidia GTX 1060 6gb
+  STORAGE:
+    -NVME SSD
 
 INFO:
 Strongholds is a project ive been working on for a long time.
