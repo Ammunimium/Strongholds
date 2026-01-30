@@ -1,0 +1,7 @@
+{
+    "fullscreen": "off",
+    "graphics": "medium",
+    "volume": "mute",
+    "vsync": "off",
+    "mode": "host"
+}
