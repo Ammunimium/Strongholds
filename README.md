@@ -1,6 +1,9 @@
 # Strongholds
 The official Strongholds Github Repo with all the information for gameplay, server hosting, modding and more
 
+EASY INSTALL:
+Pick up the game from RELEASES and then simply download and open it up, and then run the .exe and the game should open, any issues just ping me on discord @ammunimium
+
 UPDATE (instructions to run the game so far):
 Running the game!
 This game is completely unfinished, to anyone who really wants to see what is available right now your able to download the dependencies batch file along side the .py and lib, put them all together in the folder, run dependencies.bat to install the dependencies and then you should be set. (YOU DO NOT NEED THE STRONGDATA FILE)
