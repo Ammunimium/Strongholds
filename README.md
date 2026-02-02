@@ -23,7 +23,7 @@ CPU:
   GPU:
     -Intel UHD graphics 630
     -AMD Vega 8
-    -Nvidia GTX 1030
+    -Nvidia GT 1030
   STORAGE:
     -NVME/SATA SSD
 
